@@ -4,7 +4,7 @@
 
 📚 I am a former undergraduate in East Asian Studies and I can speak Japanese 🇯🇵 and Korean 🇰🇷.
 
-📲 I also have a wide knowledge on Marketing and I enjoy anything that has to be with Digital Marketing and Communication campaigns.
+📲 I also have a wide knowledge on Marketing and I enjoy anything that has to do with Digital Marketing and Communication campaigns.
 
 💫 I am passionate about CSS and Javascript.
 
