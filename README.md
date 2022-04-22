@@ -10,6 +10,6 @@
 
 🧩 I recently started learning React.
 
-🎨 I like to be creative so I am learning how to use Procreate and After Effects for UI design.
+🎨 I like to be creative so I am learning how to use Figma for UI design.
 
 💬 You can contact me through [Linked-in](https://www.linkedin.com/in/silviasalatcasado/) or visit my [Portfolio website](https://www.heyitssilvia.com/)
