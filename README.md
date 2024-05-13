@@ -14,7 +14,7 @@
 
 🎨 I like to be creative so I enjoy learning new tips on Figma for UI design.
 
-💬 Feel free to contact me through [Linked-in](https://www.linkedin.com/in/silviasalatcasado/) or visit my [Portfolio website](https://www.heyitssilvia.com/)
+💬 Feel free to contact me through [Linked-in](https://www.linkedin.com/in/silviasalatcasado/) or visit my [Portfolio website](https://heyitssilvia.netlify.app/)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silsc" />
