@@ -17,5 +17,6 @@
 💬 Feel free to contact me through [Linked-in](https://www.linkedin.com/in/silviasalatcasado/) or visit my [Portfolio website](https://heyitssilvia.netlify.app/)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silsc" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silsc" /> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silsc)](https://github.com/anuraghazra/github-readme-stats)
+
 
